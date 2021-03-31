@@ -1,7 +1,7 @@
 name = "youtube-thumb"
 type = "webpack"
-account_id = "74cf07095a7df16c38fccf35e0cd84b5"
+account_id = ""
 workers_dev = true
-route = "thumb.yt/*"
-zone_id = "1c1524bfc00a6d9e246da72b0de41bfb"
+route = ""
+zone_id = ""
 webpack_config = "webpack.config.js"
